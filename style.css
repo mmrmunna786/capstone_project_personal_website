@@ -1,0 +1,13 @@
+
+
+.my_img_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-square{
+    width: 4.5rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
