@@ -1,1 +1,1 @@
-# capstone_project_personal_website
+# A personal webpage which is a part of a capstone project.
